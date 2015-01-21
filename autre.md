@@ -1,1 +1,3 @@
-Ceci est un fichier texte de qualit� ! 
+Ceci est un fichier texte de qualité ! 
+
+Modéifié depuis github
